@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'FS Albert Pro';
+    src: url('../fonts/ALBERT_PRO/FSAlbertPro-Bold.eot');
+    src: local('FS Albert Pro Bold'), local('FSAlbertPro-Bold'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Bold.woff2') format('woff2'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Bold.woff') format('woff'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Albert Pro';
+    src: url('../fonts/ALBERT_PRO/FSAlbertPro-BoldItalic.eot');
+    src: local('FS Albert Pro Bold Italic'), local('FSAlbertPro-BoldItalic'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-BoldItalic.woff2') format('woff2'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-BoldItalic.woff') format('woff'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Albert Pro';
+    src: url('../fonts/ALBERT_PRO/FSAlbertPro-ExtraBold.eot');
+    src: local('FS Albert Pro ExtraBold'), local('FSAlbertPro-ExtraBold'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-ExtraBold.woff2') format('woff2'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-ExtraBold.woff') format('woff'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Albert Pro';
+    src: url('../fonts/ALBERT_PRO/FSAlbertPro-ThinItalic.eot');
+    src: local('FS Albert Pro Thin Italic'), local('FSAlbertPro-ThinItalic'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-ThinItalic.woff2') format('woff2'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-ThinItalic.woff') format('woff'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Albert Pro';
+    src: url('../fonts/ALBERT_PRO/FSAlbertPro-Light.eot');
+    src: local('FS Albert Pro Light'), local('FSAlbertPro-Light'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Light.woff2') format('woff2'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Light.woff') format('woff'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Albert Pro';
+    src: url('../fonts/ALBERT_PRO/FSAlbertPro.eot');
+    src: local('FS Albert Pro'), local('FSAlbertPro'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro.woff2') format('woff2'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro.woff') format('woff'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Albert Pro';
+    src: url('../fonts/ALBERT_PRO/FSAlbertPro-Italic.eot');
+    src: local('FS Albert Pro Italic'), local('FSAlbertPro-Italic'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Italic.woff2') format('woff2'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Italic.woff') format('woff'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Albert Pro';
+    src: url('../fonts/ALBERT_PRO/FSAlbertPro-LightItalic.eot');
+    src: local('FS Albert Pro Light Italic'), local('FSAlbertPro-LightItalic'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-LightItalic.woff2') format('woff2'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-LightItalic.woff') format('woff'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS Albert Pro';
+    src: url('../fonts/ALBERT_PRO/FSAlbertPro-Thin.eot');
+    src: local('FS Albert Pro Thin'), local('FSAlbertPro-Thin'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Thin.woff2') format('woff2'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Thin.woff') format('woff'),
+        url('../fonts/ALBERT_PRO/FSAlbertPro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+

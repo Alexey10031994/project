@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		".mobile {\n\tmin-height: 864px;\n\tpadding: 48px 0 79px 0;\n\tbackground: url('../img/3.jpg'); }\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,OAAO,CAAC;EACP,UAAU,EAAE,KAAK;EACjB,OAAO,EAAE,aAAa;EACtB,UAAU,EAAE,mBAAmB;CAAG"
+}

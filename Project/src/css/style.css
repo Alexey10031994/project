@@ -1,0 +1,277 @@
+/* line 4, C:/Users/User/Desktop/Project/src/sass/style.sass */
+body {
+  font-family: 'FS Albert Pro';
+  font-size: 25px;
+  font-weight: 300;
+}
+
+/* line 9, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  overflow: hidden;
+}
+
+/* line 17, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.content {
+  flex: 1 1 auto;
+}
+
+/* line 19, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.hi {
+  background-color: #f1ffa075;
+  padding: 50px 0px;
+}
+
+/* line 23, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.hi_row {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* line 26, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.hi_body {
+  color: #ff577b;
+}
+
+/* line 28, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.hi_title {
+  margin: 15px 0px 40px 0;
+  font-size: 40px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+/* line 34, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.hi_list {
+  margin-bottom: 17px;
+  line-height: 25px;
+  font-size: 20px;
+  text-shadow: 1px 1px 0px #ff577b;
+}
+
+/* line 40, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.hi_image {
+  flex: 0 0 500px;
+}
+
+/* line 42, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.hi_image img {
+  max-width: 100%;
+}
+
+/* line 45, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* line 50, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.what {
+  padding: 50px 0;
+}
+
+/* line 53, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.what_row {
+  display: flex;
+}
+
+/* line 56, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.what_image {
+  flex: 0 0 500px;
+}
+
+/* line 58, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.what_image img {
+  max-width: 100%;
+}
+
+/* line 61, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.what_body {
+  flex: 1 1 body;
+  margin-left: 38px;
+}
+
+/* line 65, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.what_tittle {
+  margin: 0 0 30px 0;
+}
+
+/* line 70, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.colums {
+  background-color: #e9e9e9;
+  padding: 50px 0px 170px 0px;
+}
+
+/* line 75, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.colums_title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* line 80, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.colums_row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0px -8px;
+}
+
+/* line 85, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.colums_colum {
+  flex: 0 1 50%;
+}
+
+/* line 93, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.item_row {
+  display: flex;
+}
+
+/* line 96, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.item_img {
+  background: #666;
+  flex: 0 0 200px;
+}
+
+/* line 100, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.item_body {
+  flex: 1 1 auto;
+  margin-left: 38px;
+}
+
+/* line 104, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.item_title {
+  margin-bottom: 15px;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+/* line 108, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.item_text {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+/* line 113, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.title {
+  font-size: 36px;
+  font-weight: 600;
+}
+
+/* line 116, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.vertical {
+  padding: 50px 0;
+}
+
+/* line 119, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.vertical_title {
+  text-align: center;
+  margin: 0 0 30px 0;
+  text-transform: uppercase;
+  font-size: 60px;
+}
+
+/* line 125, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.vertical_body {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* line 129, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.vertical_row {
+  margin: 0 -22.5px;
+  display: flex;
+}
+
+/* line 135, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.vertical_column {
+  display: flex;
+  padding: 0 22.5px;
+  flex: 0 1 33.333%;
+}
+
+/* line 140, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.vertical_item {
+  display: flex;
+  flex-direction: column;
+  background-color: grey;
+  color: #53004f;
+  border-radius: 10px;
+  border: 1px solid #53004f;
+}
+
+/* line 148, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.vertical_subtitle {
+  padding: 18px 0 12px 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+/* line 155, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.vertical_lebel {
+  padding: 23px 0;
+  background-color: #fff;
+  color: black;
+  font-size: 40px;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* line 164, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.vertical_text {
+  color: white;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 20px;
+  text-align: center;
+  flex: 1 1 auto;
+}
+
+/* line 171, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.vertical_text p {
+  margin: 0 0 25px 0;
+}
+
+/* line 173, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.vertical_text p:last-child {
+  margin: 0;
+}
+
+/* line 175, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.vertical_btn {
+  display: block;
+  text-align: center;
+  background-color: #fff;
+  margin: 0 20px 20px 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px black;
+  text-transform: uppercase;
+  color: black;
+}
+
+/* line 191, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.footer {
+  background-color: grey;
+}
+
+/* line 194, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.footer_row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 65px;
+}
+
+/* line 200, C:/Users/User/Desktop/Project/src/sass/style.sass */
+.footer_text {
+  font-size: 12px;
+  letter-spacing: 0.3;
+}
+
+/*# sourceMappingURL=style.css.map */
